@@ -1,0 +1,26 @@
+<annotation>
+	<folder>lion</folder>
+	<filename>img14.jpeg</filename>
+	<path>/home/jaggu22/Desktop/projects/zoo/images/lion/img14.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>116</width>
+		<height>70</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>8</ymin>
+			<xmax>102</xmax>
+			<ymax>58</ymax>
+		</bndbox>
+	</object>
+</annotation>
